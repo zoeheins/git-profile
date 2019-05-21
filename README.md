@@ -20,4 +20,4 @@ To avoid getting rate-limited by the Github API, you can add your api token to `
 
 ## Running the Tests
 
-To run the test suite, run `python -m unittest discover tests`
+To run the test suite, run `python -m unittest discover tests`!
